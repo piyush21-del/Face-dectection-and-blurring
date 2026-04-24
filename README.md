@@ -31,15 +31,22 @@ Applies Gaussian Blur to detected regions
 Displays or saves the output
 🖼️ Output
 Faces in the image/video are automatically blurred
+
 Output is shown in a window or saved in the output folder
 🔐 Use Cases
 Privacy protection
+
 CCTV footage anonymization
+
 Social media content masking
+
 Dataset preprocessing
 📌 Future Improvements
+
 Use Deep Learning (DNN / YOLO) for better accuracy
+
 Add face recognition + selective blurring
+
 Blur other objects (license plates, etc.)
 🤝 Contributing
 
